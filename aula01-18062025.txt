@@ -1,1 +1,21 @@
 Utilizando o Github pela primeira vez...
+✅ sudo apt update
+Atualiza a lista de pacotes disponíveis. Não instala nada ainda. Só "avisa" o sistema das versões mais recentes.
+
+⬆️ sudo apt upgrade
+Atualiza os pacotes instalados para as versões mais recentes, sem remover ou instalar coisas novas.
+
+🔁 sudo apt full-upgrade
+Atualiza tudo igual ao upgrade, mas também pode remover ou instalar pacotes se for necessário pra completar a atualização.
+
+🌀 sudo apt dist-upgrade
+É o antigo nome do full-upgrade. Faz o mesmo.
+
+🧹 sudo apt autoremove
+Remove pacotes desnecessários que foram instalados como dependência, mas não são mais usados.
+
+🧼 sudo apt autoclean
+Apaga arquivos de pacotes antigos (.deb) que não servem mais pra nada.
+
+📦 sudo apt install [nome-do-pacote]
+Instala o pacote que você pedir (ex: vim, git, etc.).
