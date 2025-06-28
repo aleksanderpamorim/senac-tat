@@ -1,3 +1,4 @@
+Diretório dos comandos do Linux Mint
 📁 Comando ls – Listar arquivos e diretórios
 O comando ls é usado no terminal Linux para listar o conteúdo de diretórios.
 
